@@ -1,5 +1,23 @@
 # BlueEyeV2.0
 
+
+
+<span style="red: green">THIS IS AN OLD VERSION, NO LONGER SUPPORTED. DO NO DOWNLOAD!</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Blue Eye V2.0 is a better version of blue eye, we recommend downloading V2.0 :)
 
 
