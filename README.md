@@ -2,7 +2,7 @@
 
 
 
-<span style="color: red">THIS IS AN OLD VERSION, NO LONGER SUPPORTED. DO NO DOWNLOAD!</span>
+<span style="color: red">THIS IS AN OLD VERSION, NO LONGER SUPPORTED.</span>
 
 
 
