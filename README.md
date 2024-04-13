@@ -26,7 +26,7 @@ Blue Eye V2.0 is a better version of blue eye, we recommend downloading V2.0 :)
 
   - Blue Eye is a software made by: melon#3397, it uses a linux server system that uses combos and gets free premium accounts, the free version of this app uses a shared server for everybody. This means the faster you get there the bigger your chances are at getting accounts...
 
-  - Paid version of this app "Blue Eye Pro" is still in development, it will have privet servers for every premium user.
+  - Paid version of this app "Blue Eye Pro" is still in development, it will have private servers for every premium user.
 
 
 
